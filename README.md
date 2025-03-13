@@ -27,7 +27,7 @@ This is the backend for the IMDb Clone application, built with Node.js, Express.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/imdb-clone.git
+git clone https://github.com/shadabsaifi751/imdb-clone-backend.git
 cd imdb-clone/backend
 
 ## Install Dependencies
